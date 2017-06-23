@@ -1,0 +1,30 @@
+body {
+    background: url(https://media2.giphy.com/media/l4FGKj3bgY8rk5NTO/200.webp#0-grid1);
+    color: white;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    border: 10px solid teal;
+}
+
+h1 {
+    background: yellow;
+    color: brown;
+    font-family: "Sans Serif";
+    transform: rotate(0deg);
+}
+
+img {
+    border-radius: 100px;
+    border: 5px solid red;
+    transition: all 5s;
+}            
+
+img:hover {
+    border-radius: 500px;
+    border: 50px solid orange;
+    
+}
+
+p {
+    color: black;
+}
